@@ -13,13 +13,12 @@ A very simple REST API, for managing offline/online music store database, built 
 
 - MySQL/MariaDB database integration
 - Environment variable configuration
-- Proper error handling
+- Simple proper error handling
 
 ## Prerequisites
 
 - Go 1.16 or higher
 - MySQL/MariaDB
-- Git
 
 ## Required Dependencies
 
